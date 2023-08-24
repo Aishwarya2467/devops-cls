@@ -1,2 +1,2 @@
 # devops-cls
-All the teachings in devops class
+All the Learnings in devops class
